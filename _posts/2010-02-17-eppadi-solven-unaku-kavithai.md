@@ -2,7 +2,8 @@
 layout: post
 title: எப்படி சொல்வேன் உனக்கு?
 date: '2010-02-17T01:35:00.009+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/02/blog-post_17.html
 ---
 

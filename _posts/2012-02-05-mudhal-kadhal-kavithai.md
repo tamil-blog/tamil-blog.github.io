@@ -2,7 +2,8 @@
 layout: post
 title: முதல் காதல்.
 date: '2012-02-05T15:38:00.002+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2012/02/blog-post.html
 ---
 

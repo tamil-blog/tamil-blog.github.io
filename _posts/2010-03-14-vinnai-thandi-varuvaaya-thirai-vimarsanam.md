@@ -2,7 +2,8 @@
 layout: post
 title: விண்ணைத்தாண்டி வருவாயா - திரைவிமர்சனம்.
 date: '2010-03-14T04:49:00.006+05:30'
-category: திரைவிமர்சனம்
+category: thirai-vimarsanam
+category_tamil: திரைவிமர்சனம்
 redirect_from: /2010/03/blog-post_14.html
 ---
 

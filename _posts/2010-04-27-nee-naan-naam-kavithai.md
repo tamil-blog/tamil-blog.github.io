@@ -2,7 +2,8 @@
 layout: post
 title: நீ. நான். நாம்.
 date: '2010-04-27T15:42:00.002+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/04/blog-post_27.html
 ---
 

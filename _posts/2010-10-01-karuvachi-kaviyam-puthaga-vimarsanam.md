@@ -2,7 +2,8 @@
 layout: post
 title: கருவாச்சி காவியம் - புத்தகவிமர்சனம்.
 date: '2010-10-01T01:09:00.003+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2010/10/blog-post.html
 ---
 

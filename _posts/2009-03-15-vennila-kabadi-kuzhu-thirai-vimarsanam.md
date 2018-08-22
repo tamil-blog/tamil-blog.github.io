@@ -2,7 +2,8 @@
 layout: post
 title: வெண்ணிலா கபடி குழு - திரைவிமர்சனம்.
 date: '2009-03-15T11:03:00.009+05:30'
-category: திரைவிமர்சனம்
+category: thirai-vimarsanam
+category_tamil: திரைவிமர்சனம்
 redirect_from: /2009/03/blog-post_15.html
 ---
 

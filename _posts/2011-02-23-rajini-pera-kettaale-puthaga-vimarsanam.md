@@ -2,7 +2,8 @@
 layout: post
 title: ரஜினி பேரக் கேட்டாலே - புத்தகவிமர்சனம்.
 date: '2011-02-23T11:05:00.002+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/02/blog-post_23.html
 ---
 

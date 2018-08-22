@@ -2,7 +2,8 @@
 layout: post
 title: யாரோ ஒருத்தியின் டைரிக்குறிப்புகள் - புத்தகவிமர்சனம்.
 date: '2011-09-06T21:11:00.001+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/09/blog-post.html
 ---
 

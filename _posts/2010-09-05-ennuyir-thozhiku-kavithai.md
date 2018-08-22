@@ -2,7 +2,8 @@
 layout: post
 title: என்னுயிர் தோழிக்கு.
 date: '2010-09-05T00:47:00.002+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/09/blog-post.html
 ---
 

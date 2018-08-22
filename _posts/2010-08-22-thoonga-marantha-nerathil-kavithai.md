@@ -2,7 +2,8 @@
 layout: post
 title: தூங்க மறந்த நேரத்தில்.
 date: '2010-08-22T05:52:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/08/blog-post.html
 ---
 

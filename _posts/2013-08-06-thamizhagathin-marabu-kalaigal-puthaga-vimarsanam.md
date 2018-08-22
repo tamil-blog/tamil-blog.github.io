@@ -2,7 +2,8 @@
 layout: post
 title: தமிழகத்தின் மரபுக் கலைகள் - புத்தகவிமர்சனம்.
 date: '2013-08-06T13:34:00.001+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2013/08/thamizhagathin-marabu-kalaigal-puthaga-vimarsanam.html
 ---
 

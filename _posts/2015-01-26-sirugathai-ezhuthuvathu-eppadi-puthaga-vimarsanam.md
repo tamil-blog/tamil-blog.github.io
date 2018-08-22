@@ -2,7 +2,8 @@
 layout: post
 title: சிறுகதை எழுதுவது எப்படி? - புத்தகவிமர்சனம்.
 date: '2015-01-26T19:50:00.000+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2015/01/sujatha-sirugathai-ezhuthuvathu-eppadi.html
 ---
 

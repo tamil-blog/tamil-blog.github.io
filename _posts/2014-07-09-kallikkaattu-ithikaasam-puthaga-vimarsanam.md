@@ -2,7 +2,8 @@
 layout: post
 title: கள்ளிக்காட்டு இதிகாசம் - புத்தகவிமர்சனம்.
 date: '2014-07-09T21:53:00.001+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2014/07/kallikkaattu-ithikaasam-vairamuthu-puthaga-vimarsanam.html
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: மதுரைக்கு போறேனடி.
 date: '2010-05-20T02:30:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/05/blog-post.html
 ---
 

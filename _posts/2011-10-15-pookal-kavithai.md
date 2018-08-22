@@ -2,7 +2,8 @@
 layout: post
 title: பூக்கள்.
 date: '2011-10-15T18:58:00.000+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/10/blog-post_15.html
 ---
 

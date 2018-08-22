@@ -2,7 +2,8 @@
 layout: post
 title: கி.மு. கி.பி. - புத்தகவிமர்சனம்.
 date: '2011-10-05T15:24:00.002+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/10/blog-post.html
 ---
 

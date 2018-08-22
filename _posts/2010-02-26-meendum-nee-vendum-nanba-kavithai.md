@@ -2,7 +2,8 @@
 layout: post
 title: மீண்டும் நீ வேண்டும் நண்பா.
 date: '2010-02-26T00:11:00.004+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/02/blog-post_26.html
 ---
 

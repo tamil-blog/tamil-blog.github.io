@@ -2,7 +2,8 @@
 layout: post
 title: பிஸினஸ் மகா மகா ராஜாக்கள் - புத்தகவிமர்சனம்.
 date: '2011-02-08T08:51:00.001+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/02/blog-post.html
 ---
 

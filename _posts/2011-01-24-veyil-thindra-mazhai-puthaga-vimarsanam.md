@@ -2,7 +2,8 @@
 layout: post
 title: வெயில் தின்ற மழை - புத்தகவிமர்சனம்.
 date: '2011-01-24T11:47:00.004+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/01/blog-post_24.html
 ---
 

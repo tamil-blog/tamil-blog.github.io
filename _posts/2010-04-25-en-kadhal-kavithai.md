@@ -2,7 +2,8 @@
 layout: post
 title: என் காதல்.
 date: '2010-04-25T16:34:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/04/blog-post.html
 ---
 

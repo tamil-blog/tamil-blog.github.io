@@ -2,7 +2,8 @@
 layout: post
 title: தண்ணீர் தேசம் - புத்தகவிமர்சனம்.
 date: '2011-01-11T01:34:00.002+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/01/blog-post.html
 ---
 

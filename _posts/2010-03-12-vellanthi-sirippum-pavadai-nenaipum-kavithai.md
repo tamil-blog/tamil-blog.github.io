@@ -2,7 +2,8 @@
 layout: post
 title: வெள்ளந்தி சிரிப்பும், பாவாடை நெனைப்பும்.
 date: '2010-03-12T10:44:00.008+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/03/blog-post_12.html
 ---
 

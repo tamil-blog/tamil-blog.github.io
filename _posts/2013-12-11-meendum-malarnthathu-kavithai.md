@@ -2,7 +2,8 @@
 layout: post
 title: மீண்டும் மலர்ந்தது.
 date: '2013-12-11T12:58:00.002+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2013/12/kavithai-meendum-malarnthathu.html
 ---
 

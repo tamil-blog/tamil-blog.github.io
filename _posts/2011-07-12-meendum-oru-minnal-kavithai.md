@@ -2,7 +2,8 @@
 layout: post
 title: மீண்டும் ஒரு மின்னல்.
 date: '2011-07-12T14:00:00.002+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/07/blog-post.html
 ---
 

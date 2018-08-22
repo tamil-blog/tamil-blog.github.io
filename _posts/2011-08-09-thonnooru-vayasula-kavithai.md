@@ -2,7 +2,8 @@
 layout: post
 title: தொண்ணூறு வயசுல.
 date: '2011-08-09T20:28:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/08/blog-post.html
 ---
 

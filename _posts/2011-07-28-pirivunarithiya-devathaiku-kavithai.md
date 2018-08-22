@@ -2,7 +2,8 @@
 layout: post
 title: பிரிவுணர்த்திய தேவதைக்கு.
 date: '2011-07-28T17:25:00.009+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/07/blog-post_28.html
 ---
 

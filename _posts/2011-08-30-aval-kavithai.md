@@ -2,7 +2,8 @@
 layout: post
 title: அவள்.
 date: '2011-08-30T17:16:00.000+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/08/blog-post_30.html
 ---
 

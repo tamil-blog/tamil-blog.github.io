@@ -2,7 +2,8 @@
 layout: post
 title: திருநங்கைகள் உலகம் - புத்தகவிமர்சனம்.
 date: '2012-05-02T23:08:00.000+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2012/05/blog-post.html
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: போகாதீங்க மாமா.
 date: '2011-09-13T22:09:00.000+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/09/blog-post_13.html
 ---
 

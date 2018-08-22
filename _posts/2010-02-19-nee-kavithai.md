@@ -2,7 +2,8 @@
 layout: post
 title: நீ.
 date: '2010-02-19T13:25:00.004+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/02/blog-post_19.html
 ---
 

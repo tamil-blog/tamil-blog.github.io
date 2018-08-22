@@ -2,7 +2,8 @@
 layout: post
 title: மணக்க போகும் பெண்ணுக்கு.
 date: '2010-09-26T01:39:00.002+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/09/blog-post_26.html
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: எனது மதுரை நினைவுகள் - புத்தகவிமர்சனம்.
 date: '2010-09-12T18:41:00.004+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2010/09/blog-post_12.html
 ---
 

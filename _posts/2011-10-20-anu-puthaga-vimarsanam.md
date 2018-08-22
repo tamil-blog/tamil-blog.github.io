@@ -2,7 +2,8 @@
 layout: post
 title: அணு - அதிசயம், அற்புதம், அபாயம் - புத்தகவிமர்சனம்.
 date: '2011-10-20T09:54:00.000+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/10/blog-post_20.html
 ---
 

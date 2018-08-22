@@ -2,7 +2,8 @@
 layout: post
 title: ரொம்ப அழகா இருக்கு.
 date: '2011-08-15T01:45:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/08/blog-post_15.html
 ---
 

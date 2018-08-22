@@ -2,7 +2,8 @@
 layout: post
 title: லிண்ட்சே லோஹன் w/o மாரியப்பன் - புத்தகவிமர்சனம்.
 date: '2015-02-11T10:26:00.000+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2015/02/lindsay-lohan-mariappan-manikandan-book-review.html
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: தேவதையே தேவதையே.
 date: '2011-10-07T16:56:00.000+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/10/blog-post_07.html
 ---
 

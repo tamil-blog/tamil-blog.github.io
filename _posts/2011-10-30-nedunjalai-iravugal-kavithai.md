@@ -2,7 +2,8 @@
 layout: post
 title: நெடுஞ்சாலை இரவுகள்.
 date: '2011-10-30T11:26:00.000+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/10/blog-post_30.html
 ---
 

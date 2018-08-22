@@ -2,7 +2,8 @@
 layout: post
 title: கவிதைகளும் கவுண்டமணியும்.
 date: '2010-03-04T13:03:00.005+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/03/blog-post_04.html
 ---
 

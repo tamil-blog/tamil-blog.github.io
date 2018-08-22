@@ -2,7 +2,8 @@
 layout: post
 title: நிலவோடு நான் பேசும் நேரம்.
 date: '2011-09-16T20:35:00.000+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/09/blog-post_16.html
 ---
 

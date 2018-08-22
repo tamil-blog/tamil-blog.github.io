@@ -2,7 +2,8 @@
 layout: post
 title: இது தான் காதலா?
 date: '2010-02-14T03:59:00.006+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/02/blog-post.html
 ---
 

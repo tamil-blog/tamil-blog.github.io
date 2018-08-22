@@ -2,7 +2,8 @@
 layout: post
 title: நியான் நகரம் - புத்தகவிமர்சனம்.
 date: '2011-07-21T09:34:00.003+05:30'
-category: புத்தகவிமர்சனம்
+category: puthaga-vimarsanam
+category_tamil: புத்தகவிமர்சனம்
 redirect_from: /2011/07/blog-post_21.html
 ---
 

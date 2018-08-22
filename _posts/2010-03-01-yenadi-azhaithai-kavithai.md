@@ -2,7 +2,8 @@
 layout: post
 title: ஏனடி அழைத்தாய்?
 date: '2010-03-01T01:09:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/03/blog-post.html
 ---
 

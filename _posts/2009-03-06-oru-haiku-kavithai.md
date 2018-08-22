@@ -2,7 +2,8 @@
 layout: post
 title: ஒரு ஹைக்கூ கவிதை.
 date: '2009-03-06T10:42:00.013+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2009/03/blog-post.html
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: வைதேகிக்காக ஒரு tanglish கவிதை.
 date: '2009-04-14T10:48:00.010+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2009/04/tanglish_14.html
 ---
 

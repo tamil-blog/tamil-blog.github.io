@@ -2,7 +2,8 @@
 layout: post
 title: தாயும் நீயும்.
 date: '2010-09-19T08:26:00.002+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/09/blog-post_19.html
 ---
 

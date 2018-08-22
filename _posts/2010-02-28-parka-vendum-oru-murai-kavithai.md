@@ -2,7 +2,8 @@
 layout: post
 title: பார்க்க வேண்டும் ஒரு முறை.
 date: '2010-02-28T02:42:00.007+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/02/blog-post_28.html
 ---
 

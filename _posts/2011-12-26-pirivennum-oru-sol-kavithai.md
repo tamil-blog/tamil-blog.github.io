@@ -2,7 +2,8 @@
 layout: post
 title: பிரிவென்னும் ஒரு சொல்.
 date: '2011-12-26T10:00:00.000+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/11/blog-post_14.html
 ---
 

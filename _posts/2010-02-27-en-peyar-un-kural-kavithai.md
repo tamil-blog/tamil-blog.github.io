@@ -2,7 +2,8 @@
 layout: post
 title: என் பெயர். உன் குரல்.
 date: '2010-02-27T00:15:00.006+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/02/blog-post_27.html
 ---
 

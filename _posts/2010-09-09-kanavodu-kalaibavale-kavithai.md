@@ -2,7 +2,8 @@
 layout: post
 title: கனவோடு கலைபவளே.
 date: '2010-09-09T09:24:00.010+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/09/blog-post_09.html
 ---
 

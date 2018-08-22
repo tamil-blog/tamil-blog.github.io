@@ -2,7 +2,8 @@
 layout: post
 title: ஒரு கவிதையின் பயணம்.
 date: '2011-08-18T18:51:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2011/08/blog-post_18.html
 ---
 

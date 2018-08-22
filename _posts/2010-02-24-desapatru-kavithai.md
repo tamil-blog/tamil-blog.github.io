@@ -2,7 +2,8 @@
 layout: post
 title: தேசபற்று.
 date: '2010-02-24T12:58:00.003+05:30'
-category: கவிதை
+category: kavithai
+category_tamil: கவிதை
 redirect_from: /2010/02/blog-post_24.html
 ---
 
