@@ -24,7 +24,7 @@ redirect_from: /2013/08/thamizhagathin-marabu-kalaigal-puthaga-vimarsanam.html
 <br />
 இந்த புத்தகத்தில் இடம் பெற்றுள்ள மரபுக்கலைகள்:<br />
 <br />
-நிகிழ்த்துக்கலைகள்:<br />
+**நிகிழ்த்துக்கலைகள்**<br />
 <br />
 பூம்பூம் மாடு<br />
 பகல்வேடம்<br />
@@ -51,7 +51,7 @@ redirect_from: /2013/08/thamizhagathin-marabu-kalaigal-puthaga-vimarsanam.html
 பொய்க்கால் குதிரையாட்டம்<br />
 உடுக்கையாட்டம்<br />
 <br />
-கைவினைக்கலைகள்:<br />
+**கைவினைக்கலைகள்**<br />
 <br />
 மண்பாண்டக் கலை<br />
 மூங்கில் கலை<br />

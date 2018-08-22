@@ -5,11 +5,11 @@ layout: default
   <h2>{{ page.title }}</h2>
   {{ page.date | date_to_string }}
   <br/><br/>
-  <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a>
+  <a href="{{ site.url }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">தொகுப்புகள்</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a>
   <br/><br/>
   {{ content }}
   {% include support-local-bookstore.html %}
-  You are here : <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a>  
+  <a href="{{ site.url }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">தொகுப்புகள்</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a>
 </div>
 <div>
   <br/>
@@ -18,14 +18,14 @@ layout: default
 </div>
 <div>
   {% if page.previous.url %} 
-    <a href="{{page.previous.url}}">&lt;&lt; Older</a>
+    <a href="{{page.previous.url}}">&lt;&lt;&nbsp;பழையன</a>
   {% else %}
-    Older
+  பழையன
   {% endif %}
   {% if page.next.url %} 
-    <a href="{{page.next.url}}">Newer &gt;&gt;</a>
+    <a href="{{page.next.url}}">புதியன&nbsp;&gt;&gt;</a>
   {% else %}
-    Newer
+  புதியன
   {% endif %}
 </div>
 <br/>
