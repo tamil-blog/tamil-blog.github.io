@@ -1,6 +1,6 @@
 title: smileprem
 tagline: on a journey called life
-url: http://blog.smileprem.com
+url: http://test.smileprem.com
 #logo: add-some-logo-here
 copyright: copyleft @ 2009. free to all.
 
@@ -27,8 +27,8 @@ paginate: 150
 
 permalink: /:title/
 
-img-path: http://blog.smileprem.com/public/images
-download-path: http://blog.smileprem.com/public/downloads
+img-path: http://test.smileprem.com/public/images
+download-path: http://test.smileprem.com/public/downloads
 
 newsletter: http://eepurl.com/VMDl5
 english-blog: https://blog.smileprem.com/
