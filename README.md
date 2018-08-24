@@ -1,4 +1,4 @@
-இந்த [வலைப்பதிவு] (http://tamil.smileprem.com) GitHub பக்கங்களில் HTML மட்டும் கொண்டு கட்டமைக்கப்பட்டுள்ளது.(CSS மற்றும் Javascript கூட இல்லை)     
+இந்த [வலைப்பதிவு](http://tamil.smileprem.com) GitHub பக்கங்களில் HTML மட்டும் கொண்டு கட்டமைக்கப்பட்டுள்ளது.(CSS மற்றும் Javascript கூட இல்லை)     
 
 Remember this quote always:  
 
