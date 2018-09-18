@@ -9,6 +9,8 @@ permalink: /categories/
 
 <ul>
 
+<li><p><a href="{{ site.url }}/category/literature/">இலக்கியம்</a></p></li>
+
 <li><p><a href="{{ site.url }}/category/kavithai/">கவிதை</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/puthaga-vimarsanam/">புத்தகவிமர்சனம்</a></p></li>
