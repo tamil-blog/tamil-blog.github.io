@@ -1,7 +1,7 @@
 ---
 layout: post
 title: இனிதாய் விடியும் பொழுது
-date: '2020-09-09T08:00:00.000-08:00'
+date: '2021-09-09T08:00:00.000-08:00'
 category: kavithai
 category_tamil: கவிதை
 ---
