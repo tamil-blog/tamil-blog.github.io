@@ -6,27 +6,42 @@ permalink: /books/
  
 [home]({{ site.url }}) &nbsp;&gt;&nbsp; [categories]({{ site.url }}/categories)  
 
-### Books I enjoyed reading
+### படித்து மகிழ்ந்த புத்தகங்கள்
 
-I begin to understand that reading books is a personal experience and the same book would have a different experience with different people.
-I've decided not to write book reviews and possibly affect your experience by setting up an expectation with my experience. I've removed all of my existing book reviews. If a book brings a smile or an idea or the feeling of time well spent, you would find it in this list. This list is compiled from Jan 1, 2021 onwards. 
+புத்தகங்களைப் படிப்பது ஒரு தனிப்பட்ட அனுபவம். ஒரே புத்தகம் வெவ்வேறு நபர்களுக்கு வெவ்வேறு அனுபவத்தைப் தரும் என்பதை நான் புரிந்து கொண்டேன்.
+ஒரு புத்தகத்துடனான என்னுடைய அனுபவத்தை பகிர்வதன் மூலம் உங்கள் எதிர்பார்ப்புகளை அதிகரிக்க நான் விரும்பவில்லை. இத்துடன் புத்தக மதிப்புரைகளை எழுத வேண்டாம் என்று முடிவு செய்துள்ளேன்.
+இதுவரை எழுதிய புத்தக மதிப்புரைகள் அனைத்தையும் நீக்கிவிட்டேன். நான் படித்து மகிழ்ந்து, மீண்டும் படிக்கலாம் என்று நினைக்கும் புத்தகங்களின் பட்டியல் இதோ.
 
-#### Biography
+#### சுயசரிதை
+
 <ul>
-  <li><a target="_blank" href="https://amzn.to/36ajkXy">Maybe You Should Talk To Someone</a></li> by Lori Gottlieb
-  <li><a target="_blank" href="https://amzn.to/3rgXYiz">When Breath Becomes Air</a></li> by Paul Kalanithi
+  <li><a target="_blank" href="">எனது மதுரை நினைவுகள்</a></li> எழுதியவர்: மனோகர் தேவதாஸ்
+  <li><a target="_blank" href="">ரஜினி பேரக் கேட்டாலே</a></li> எழுதியவர்: காயத்ரி ஸ்ரீகாந்த்
 </ul>  
 
-#### Finance
+#### அறிவியல்
+
 <ul>
-  <li><a target="_blank" href="https://amzn.to/3xjCANv">The Little Book of Common Sense Investing</a></li> by John C. Bogle
-  <li><a target="_blank" href="https://amzn.to/3E72khi">The Bogleheads' Guide to the Three-Fund Portfolio</a></li> by Taylor Larimore
-  <li><a target="_blank" href="https://amzn.to/3M1kBPO">MONEY Master the Game</a></li> by Tony Robbins
+  <li><a target="_blank" href="">அணு - அதிசயம், அற்புதம், அபாயம்</a></li> எழுதியவர்: N.ராமதுரை
 </ul>  
 
-#### Crypto
+#### வரலாறு
+
 <ul>
-  <li><a target="_blank" href="https://amzn.to/3rmnuml">Mastering Bitcoin</a></li> by Andreas M. Antonopoulos
-  <li><a target="_blank" href="https://amzn.to/3xn4E2p">Kings of Crypto</a></li> by Jeff John Roberts
+  <li><a target="_blank" href="">கி.மு. கி.பி.</a></li> எழுதியவர்: மதன்  
+  <li><a target="_blank" href="">தமிழகத்தின் மரபுக் கலைகள்</a></li> எழுதியவர்: எழிலவன்
 </ul>  
 
+#### நாவல்
+
+<ul>
+  <li><a target="_blank" href="">கருவாச்சி காவியம்</a></li> எழுதியவர்: வைரமுத்து
+  <li><a target="_blank" href="">கள்ளிக்காட்டு இதிகாசம்</a></li> எழுதியவர்: வைரமுத்து
+</ul>  
+
+#### யதார்த்தம்
+
+<ul>
+  <li><a target="_blank" href="">திருநங்கைகள் உலகம்</a></li> எழுதியவர்: பால் சுயம்பு
+  
+</ul>  
