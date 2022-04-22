@@ -1,17 +1,17 @@
-title: smileprem
-tagline: on a journey called life
+title: கனவு
+tagline: என் வாழ்வென்னும் பயணத்தில்...
 url: https://tamil.smileprem.com
 #logo: add-some-logo-here
-copyright: copyleft @ 2009. free to all.
+copyright: பொதுவுடைமை @ 2009.
 
-author: Premkumar Masilamani
+author: பிரேம்குமார் மாசிலாமணி
 email: xxx@xxx.xxx
 mobile: xxx-xxx-xxxx
 
 social:
-  name: Premkumar Masilamani
+  name: பிரேம்குமார் மாசிலாமணி
   links:
-    - http://www.linkedin.com/in/premkumarmasilamani
+    - https://www.linkedin.com/in/premkumarmasilamani
     - https://github.com/smileprem
 
 include:
@@ -30,7 +30,7 @@ permalink: /:title/
 img-path: https://tamil.smileprem.com/public/images
 download-path: https://tamil.smileprem.com/public/downloads
 
-newsletter: http://eepurl.com/dE1xBb
+newsletter: https://eepurl.com/dE1xBb
 contact-form: https://www.emailmeform.com/builder/form/CVTAEonS7L1fvW4H0b8
 english-blog: https://blog.smileprem.com/
 
