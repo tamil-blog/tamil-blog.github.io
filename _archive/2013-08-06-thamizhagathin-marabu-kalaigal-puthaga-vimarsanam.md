@@ -77,5 +77,4 @@ Blackhole Media Publication Limited<br />
 தொலைபேசி: +91-44-4353-4303/04<br />
 தொலைநகல்: +91-44-4353-4305<br />
 மின்னஞ்சல்: admin@blackholemedia.in<br />
-வலைத்தளம்: http://blackholemedia.in/node/116<br />
 <br />
