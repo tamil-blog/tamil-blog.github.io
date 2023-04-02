@@ -15,33 +15,33 @@ permalink: /books/
 #### சுயசரிதை
 
 <ul>
-  <li><a target="_blank" href="">எனது மதுரை நினைவுகள்</a></li> எழுதியவர்: மனோகர் தேவதாஸ்
-  <li><a target="_blank" href="">ரஜினி பேரக் கேட்டாலே</a></li> எழுதியவர்: காயத்ரி ஸ்ரீகாந்த்
+  <li><a target="_blank" href="https://www.google.com/search?q=எனது+மதுரை+நினைவுகள்">எனது மதுரை நினைவுகள்</a></li> எழுதியவர்: மனோகர் தேவதாஸ்
+  <li><a target="_blank" href="https://www.google.com/search?q=ரஜினி+பேரக்+கேட்டாலே">ரஜினி பேரக் கேட்டாலே</a></li> எழுதியவர்: காயத்ரி ஸ்ரீகாந்த்
 </ul>  
 
 #### அறிவியல்
 
 <ul>
-  <li><a target="_blank" href="">அணு - அதிசயம், அற்புதம், அபாயம்</a></li> எழுதியவர்: N.ராமதுரை
+  <li><a target="_blank" href="https://www.google.com/search?q=அணு+அதிசயம்+அற்புதம்+அபாயம்">அணு - அதிசயம், அற்புதம், அபாயம்</a></li> எழுதியவர்: N.ராமதுரை
 </ul>  
 
 #### வரலாறு
 
 <ul>
-  <li><a target="_blank" href="">கி.மு. கி.பி.</a></li> எழுதியவர்: மதன்  
-  <li><a target="_blank" href="">தமிழகத்தின் மரபுக் கலைகள்</a></li> எழுதியவர்: எழிலவன்
+  <li><a target="_blank" href="https://www.google.com/search?q=கி.மு.+கி.பி.">கி.மு. கி.பி.</a></li> எழுதியவர்: மதன்  
+  <li><a target="_blank" href="https://www.google.com/search?q=தமிழகத்தின்+மரபுக்+கலைகள்">தமிழகத்தின் மரபுக் கலைகள்</a></li> எழுதியவர்: எழிலவன்
 </ul>  
 
 #### நாவல்
 
 <ul>
-  <li><a target="_blank" href="">கருவாச்சி காவியம்</a></li> எழுதியவர்: வைரமுத்து
-  <li><a target="_blank" href="">கள்ளிக்காட்டு இதிகாசம்</a></li> எழுதியவர்: வைரமுத்து
+  <li><a target="_blank" href="https://www.google.com/search?q=கருவாச்சி+காவியம்">கருவாச்சி காவியம்</a></li> எழுதியவர்: வைரமுத்து
+  <li><a target="_blank" href="https://www.google.com/search?q=கள்ளிக்காட்டு+இதிகாசம்">கள்ளிக்காட்டு இதிகாசம்</a></li> எழுதியவர்: வைரமுத்து
 </ul>  
 
 #### யதார்த்தம்
 
 <ul>
-  <li><a target="_blank" href="">திருநங்கைகள் உலகம்</a></li> எழுதியவர்: பால் சுயம்பு
+  <li><a target="_blank" href="https://www.google.com/search?q=திருநங்கைகள்+உலகம்">திருநங்கைகள் உலகம்</a></li> எழுதியவர்: பால் சுயம்பு
   
 </ul>  
