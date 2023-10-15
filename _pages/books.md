@@ -37,6 +37,7 @@ permalink: /books/
 <ul>
   <li><a target="_blank" href="https://www.google.com/search?q=கருவாச்சி+காவியம்">கருவாச்சி காவியம்</a></li> எழுதியவர்: வைரமுத்து
   <li><a target="_blank" href="https://www.google.com/search?q=கள்ளிக்காட்டு+இதிகாசம்">கள்ளிக்காட்டு இதிகாசம்</a></li> எழுதியவர்: வைரமுத்து
+  <li><a target="_blank" href="https://www.google.com/search?q=மெலுஹாவின்+அமரர்கள்">மெலுஹாவின் அமரர்கள்</a></li> எழுதியவர்: அமிஷ்
   <li><a target="_blank" href="https://www.google.com/search?q=பொன்னியின்+செல்வன்">பொன்னியின் செல்வன்</a></li> எழுதியவர்: கல்கி கிருஷ்ணமூர்த்தி
 </ul>  
 
