@@ -3,8 +3,8 @@ layout: page
 date: 2022-01-00 00:00:00 +0530
 permalink: /books/
 ---
- 
-[home]({{ site.url }}) &nbsp;&gt;&nbsp; [categories]({{ site.url }}/categories)  
+
+<p><a href="{{ site.url }}">முகப்பு</a> &nbsp;&gt;&nbsp; <a href="{{ site.url }}/categories">தொகுப்புகள்</a></p>
 
 ### படித்து மகிழ்ந்த புத்தகங்கள்
 
