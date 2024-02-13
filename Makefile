@@ -13,4 +13,4 @@ run:
 
 # This target will stop and remove the Jekyll container.
 stop:
-	@docker stop smileprem-tamil
+	@docker stop smileprem-tamil && docker rm smileprem-tamil
